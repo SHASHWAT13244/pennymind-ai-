@@ -170,7 +170,7 @@ const Navbar = ({
 
             {/* GitHub Link */}
             <a 
-              href="https://github.com/spendsmart" 
+              href="https://github.com/SHASHWAT13244/pennymind-ai-.git" 
               target="_blank" 
               rel="noopener noreferrer"
               style={styles.iconBtn}
