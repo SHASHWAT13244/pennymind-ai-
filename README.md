@@ -9,11 +9,15 @@
 [![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)](#)
 [![Recharts](https://img.shields.io/badge/Recharts-22c55e?style=for-the-badge&logo=recharts&logoColor=white)](#)
 [![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](#)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-ff69b4?style=for-the-badge&logo=render)](https://pennymind-ai-frontend.onrender.com/)
 
 A **modern full-stack expense tracking application** that leverages **Groq AI** to help users manage finances intelligently — built with the **MERN stack**.
 
 🔗 **GitHub Repository:**  
 https://github.com/SHASHWAT13244/pennymind-ai-
+
+🌐 **Live Demo:**  
+https://pennymind-ai-frontend.onrender.com/
 
 ---
 
@@ -169,6 +173,7 @@ https://github.com/SHASHWAT13244/pennymind-ai-
 Shashwat Khandelwal
 
 B.Tech Computer Science Student | MERN Stack Developer | AI Enthusiast
-
+[GitHub](https://github.com/SHASHWAT13244)  
+[LinkedIn](https://www.linkedin.com/in/shashwat-khandelwal-a0564532b/)  
 
 
