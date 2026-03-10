@@ -29,11 +29,6 @@ https://github.com/SHASHWAT13244/pennymind-ai-
   - [📄 Export & Sharing](#-export--sharing)
   - [🔐 Authentication](#-authentication--security)
 - [🛠️ Tech Stack](#️-tech-stack)
-- [📁 Project Structure](#-project-structure)
-- [⚙️ Installation](#️-installation)
-- [🚀 Usage](#-usage)
-- [🤝 Contributing](#-contributing)
-- [📝 License](#-license)
 - [👨‍💻 Author](#-author)
 
 ---
