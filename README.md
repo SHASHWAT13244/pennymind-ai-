@@ -173,7 +173,9 @@ https://pennymind-ai-frontend.onrender.com/
 Shashwat Khandelwal
 
 B.Tech Computer Science Student | MERN Stack Developer | AI Enthusiast
+
 [GitHub](https://github.com/SHASHWAT13244)  
+
 [LinkedIn](https://www.linkedin.com/in/shashwat-khandelwal-a0564532b/)  
 
 
