@@ -33,7 +33,7 @@ https://pennymind-ai-frontend.onrender.com/
   - [📄 Export & Sharing](#-export--sharing)
   - [🔐 Authentication](#-authentication--security)
 - [🛠️ Tech Stack](#️-tech-stack)
-- [👨‍💻 Author](#-author)
+
 
 ---
 
